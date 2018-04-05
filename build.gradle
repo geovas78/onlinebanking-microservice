@@ -19,6 +19,8 @@ group = 'com.onlinebanking-ms'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
 
+mainClassName = 'com.onlinebankingms.vasilski.OnlinebankingMsApplication'
+
 repositories {
 	mavenCentral()
 }
