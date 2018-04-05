@@ -19,6 +19,7 @@ group = 'com.onlinebanking-ms'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
 
+//not needed for springboot
 mainClassName = 'com.onlinebankingms.vasilski.OnlinebankingMsApplication'
 
 repositories {
